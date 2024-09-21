@@ -1,14 +1,13 @@
 package TestCases;
 
 import org.testng.annotations.Test;
+import org.Base.BaseTest;
+import org.Pages.HomePage;
+import org.Pages.LoginPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
-
-import dxc.Base.BaseTest;
-import dxc.Pages.HomePage;
-import dxc.Pages.LoginPage;
 
 public class dummy {
 	

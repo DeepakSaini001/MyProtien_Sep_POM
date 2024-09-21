@@ -6,19 +6,18 @@ import static org.testng.Assert.assertTrue;
 
 import java.util.List;
 
+import org.Base.BaseTest;
+import org.Pages.HomePage;
+import org.Pages.HomePagePopUp;
+import org.Pages.ProtienPage;
+import org.Pages.SignUpPage;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
+import org.utils.FakerUtils;
 
 import com.aventstack.extentreports.Status;
-
-import dxc.Base.BaseTest;
-import dxc.Pages.HomePage;
-import dxc.Pages.HomePagePopUp;
-import dxc.Pages.ProtienPage;
-import dxc.Pages.SignUpPage;
-import dxc.utils.FakerUtils;
 
 
 
